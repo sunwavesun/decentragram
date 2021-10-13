@@ -1,0 +1,5 @@
+{
+    "solidity.compileUsingLocalVersion": "v0.5.0+commit.1d4f565a",
+    "solidity.compileUsingRemoteVersion": "v0.5.0+commit.1d4f565a",
+    "liveServer.settings.port": 5501
+}
