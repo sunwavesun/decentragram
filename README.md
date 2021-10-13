@@ -3,7 +3,7 @@
 Decentralized version of the popular social networking service Instagram that utilizes IPFS to store photos.
 
 <p align="center">
-  <img src="public/fire_trail.png"
+  <img src="public/fire_trail.jpg"
   width="200" height="400">
 </p>
 
