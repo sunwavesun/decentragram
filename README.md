@@ -4,7 +4,7 @@ Decentralized version of the popular social networking service Instagram that ut
 
 <p align="center">
   <img src="public/decentragram.png"
-  width="200" height="400">
+  width="400" height="800">
 </p>
 
-Original idea and project by Dapp University.
+Original source by Dapp University (https://www.dappuniversity.com/).
